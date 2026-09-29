@@ -1,0 +1,21 @@
+feature,importance
+num__rolling_mean_28,0.611193
+num__rolling_mean_7,0.05656219
+cat__product_id_P139,0.032270234
+num__rolling_mean_14,0.031906683
+num__demand,0.02517036
+num__opening,0.009827836
+cat__store_type_Hypermarket,0.008203327
+num__floor_area_sqft,0.0077040954
+cat__category_Beverages,0.005935932
+num__shelf_life_days,0.005892219
+cat__category_Personal Care,0.0053427923
+cat__store_type_Express,0.005314785
+cat__category_Snacks,0.005206864
+cat__city_Erode,0.005150451
+cat__product_id_P133,0.0051184976
+num__lag_1,0.0049242796
+num__avg_daily_customers,0.0045926296
+cat__product_id_P106,0.0045740306
+cat__product_id_P112,0.0045550657
+cat__city_Madurai,0.004441926

@@ -1,0 +1,9 @@
+[
+  {
+    "total_units":269119,
+    "total_revenue":21470650.450000003,
+    "stockout_rows":496,
+    "inventory_mismatch_rows":192,
+    "overstock_rows":3188
+  }
+]

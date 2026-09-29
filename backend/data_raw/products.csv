@@ -1,0 +1,41 @@
+product_id,category,sub_category,brand,mrp,cost_price,shelf_life_days,supplier_id
+P101,Dairy,Milk,Aavin,58,38,5,SUP01
+P102,Dairy,Curd,Aavin,42,28,7,SUP02
+P103,Dairy,Butter,MilkyMist,110,76,30,SUP03
+P104,Dairy,Cheese,MilkyMist,145,98,45,SUP04
+P105,Dairy,Paneer,Aavin,125,84,7,SUP05
+P106,beverage,Cola,Coca-Cola,45,27,180,SUP06
+P107,BEVERAGES,Lime Drink,Sprite,40,24,180,SUP07
+P108, Beverages ,Juice,Real,110,72,120,SUP08
+P109,Beverages,Energy Drink,RedBull,125,88,180,SUP01
+P110,Beverages,Water,Aquafina,20,9,365,SUP02
+P111,Snacks,Potato Chips,Lays,30,18,120,SUP03
+P112,Snacks,Biscuit,Parle,30,17,180,SUP04
+P113,Snacks,Chocolate,DairyMilk,50,31,240,SUP05
+P114,Snacks,Namkeen,Haldirams,75,48,120,SUP06
+P115,Snacks,Cookies,Sunfeast,65,40,150,SUP07
+P116,Personal Care,Shampoo,Dove,180,115,720,SUP08
+P117,Personal Care,Soap,Dove,55,34,720,SUP01
+P118,Personal Care,Toothpaste,Colgate,95,61,720,SUP02
+P119,Personal Care,Face Wash,Himalaya,150,96,720,SUP03
+P120,Personal Care,Deodorant,Nivea,210,140,720,SUP04
+P121,Household,Detergent,Surf Excel,220,145,720,SUP05
+P122,Household,Dishwash,Vim,125,82,540,SUP06
+P123,Household,Floor Cleaner,Lizol,170,108,540,SUP07
+P124,Household,Toilet Cleaner,Harpic,115,72,540,SUP08
+P125,Household,Tissue,Origami,95,57,720,SUP01
+P126,Frozen,Ice Cream,Arun,80,52,180,SUP02
+P127,Frozen,Frozen Peas,Safal,95,61,365,SUP03
+P128,Frozen,Frozen Paratha,ITC,160,105,365,SUP04
+P129,Frozen,French Fries,McCain,190,126,365,SUP05
+P130,Frozen,Frozen Snacks,McCain,175,116,365,SUP06
+P131,Dairy,Flavoured Milk,Aavin,45,29,10,SUP07
+P132,Beverages,Cold Coffee,Bru,70,44,120,SUP08
+P133,Snacks,Protein Bar,Yoga Bar,90,58,180,SUP01
+P134,Personal Care,Hand Wash,Dettol,120,76,540,SUP02
+P135,Household,Garbage Bags,Ezee,90,55,720,SUP03
+P136,Frozen,Frozen Corn,Safal,105,68,365,SUP04
+P137,Dairy,Yogurt,MilkyMist,60,39,12,SUP05
+P138,Beverages,Sports Drink,Gatorade,75,48,180,SUP06
+P139,Snacks,Popcorn,Act II,55,33,150,SUP07
+P140,Personal Care,Body Lotion,Vaseline,190,122,720,SUP08

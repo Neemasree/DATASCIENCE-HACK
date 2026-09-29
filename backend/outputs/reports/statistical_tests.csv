@@ -1,0 +1,4 @@
+question,test,p_value,decision_at_0_05,group1_mean_demand,group0_mean_demand
+Promotion vs demand,Welch t-test,6.866312408536904e-51,Reject H0 at 0.05,8.262106210621063,6.796255137768306
+Store type vs demand,One-way ANOVA,0.0,Reject H0 at 0.05,,
+Promotion vs stock-out,Chi-square test,0.21041830604165707,Do not reject H0 at 0.05,,

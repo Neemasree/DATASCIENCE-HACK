@@ -1,0 +1,15 @@
+[
+  {
+    "transactions_raw":57878,
+    "transactions_clean":57574,
+    "products":40,
+    "stores":8,
+    "inventory":38400,
+    "external_factors":720,
+    "duplicate_transaction_ids":287,
+    "negative_quantities":17,
+    "inventory_mismatches":192,
+    "missing_temperature":7,
+    "invalid_foreign_keys":0
+  }
+]

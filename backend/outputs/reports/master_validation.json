@@ -1,0 +1,14 @@
+[
+  {
+    "rows":38400,
+    "expected_full_grid_rows":38400,
+    "date_start":"2026-06-01",
+    "date_end":"2026-09-28",
+    "stores":8,
+    "products":40,
+    "duplicate_grain_rows":0,
+    "missing_product_attributes":0,
+    "missing_store_attributes":0,
+    "missing_external_weather":0
+  }
+]

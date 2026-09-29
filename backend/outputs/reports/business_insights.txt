@@ -1,0 +1,6 @@
+- Total modeled demand in the dataset is 269,119 units with total revenue of ₹21,470,650.
+- The dataset contains 496 store-product-day observations with closing stock at or below zero.
+- There are 192 source inventory rows with arithmetic mismatches; these are preserved as flags rather than silently overwritten.
+- The highest-revenue category is Dairy with ₹5,002,268.
+- The highest-revenue store is S02 (Chennai) with ₹5,464,617.
+- The prototype identifies 67 overstocked store-product rows on the latest date and 32 high-risk rows.

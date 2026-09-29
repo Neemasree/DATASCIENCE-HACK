@@ -1,0 +1,10 @@
+dataset,issue,count,action,justification
+transactions,Duplicate transaction IDs,287,Remove duplicate transaction_id rows; keep first,Duplicate IDs can double-count demand.
+transactions,Negative quantity,17,Remove invalid negative sales quantities,Normal sales quantities cannot be negative.
+products,Category inconsistencies,2,"Strip whitespace, normalize case and map equivalent labels",One canonical category is required for grouping and modeling.
+inventory,Inventory arithmetic mismatch,192,Preserve source closing; add mismatch flag and reconciled value,Source values should remain auditable rather than being silently overwritten.
+external_factors,Missing temperature,7,Impute using city median temperature,City-level median is appropriate for a small number of missing continuous values.
+transactions,Invalid store IDs,0,Stop/flag integration if non-zero,Every transaction store must exist in stores.
+transactions,Invalid product IDs,0,Stop/flag integration if non-zero,Every transaction product must exist in products.
+inventory,Invalid store IDs,0,Stop/flag integration if non-zero,Every inventory store must exist in stores.
+inventory,Invalid product IDs,0,Stop/flag integration if non-zero,Every inventory product must exist in products.
